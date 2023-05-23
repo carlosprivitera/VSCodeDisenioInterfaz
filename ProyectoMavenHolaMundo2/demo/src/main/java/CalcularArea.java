@@ -48,7 +48,7 @@ public class CalcularArea extends HttpServlet {
     }
     private Float calcularArea(Float b, Float a, String q) {
        Float resultado = 0.0f; 
-       }
+    
        if(q.equals("CalcularRec")) {
             resultado = b * a;
        }else{
@@ -57,7 +57,6 @@ public class CalcularArea extends HttpServlet {
        return resultado;
     }
 
-    
    
 
 }
