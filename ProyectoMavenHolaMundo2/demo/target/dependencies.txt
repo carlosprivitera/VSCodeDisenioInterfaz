@@ -1,0 +1,5 @@
+digraph "com.example:demo:war:1.0.0" { 
+	"com.example:demo:war:1.0.0" -> "javax.servlet:javax.servlet-api:jar:4.0.1:provided" ; 
+ } digraph "com.example:demo:war:1.0.0" { 
+	"com.example:demo:war:1.0.0" -> "javax.servlet:javax.servlet-api:jar:4.0.1:provided" ; 
+ } 
