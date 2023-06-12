@@ -11,8 +11,8 @@
                     <br/>
                     <input type="text" name="altura" value="4" maxlength="30" size="30"/>
                     <br/>
-                    <input type="submit" name="enviar" value="CalcularRec"/>
-                    <input type="submit" name="enviar" value="CalcularTri"/>
+                    <input type="submit" name="enviar" value="CalcularRec" id="rec"/>
+                    <input type="submit" name="enviar" value="CalcularTri" id="tri"/>
                 </form>
             </div>
             <div id="panelSalida">
