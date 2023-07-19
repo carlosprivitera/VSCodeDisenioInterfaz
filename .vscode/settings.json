@@ -2,5 +2,9 @@
     "cSpell.words": [
         "calculararea"
     ],
-    "java.configuration.updateBuildConfiguration": "interactive"
+    "java.configuration.updateBuildConfiguration": "interactive",
+    "files.exclude": {
+        "++/target": true
+    },
+    "cSpell.language": "en,es,es-ES"
 }
